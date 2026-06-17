@@ -4,36 +4,31 @@
 
 Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
 
+A problem that my app will try to fix is with chores. Most people including myself forget about their chores if they dont do them constantly so my app
+will give a list of chores that the user wants e.g. their kids to finish a chore with priority to say what is more important to do first, a check list and more
+
 
 ## End-User Requirements
 
 Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+
+My end-user needs an app that can work on their phone quickly and without issue they expect there to be a checklist, a priority option, ways to edit and remove chores
+they require the app to be easy to use and easy for kids of all ages and to not let the younger ages edit any of the chores.
 
 
 ## Proposed Solution
 
 Replace this text with a brief statement about the system that you intend to create, including the key functionality it should have.
 
+I intend to create one of the best apps in the world. My system will include all the necessitys that my end user wants and what new things they want to add after seeing
+previous plans. The key functionality it should have is 
+
 
 # Relevant Implications
 
-## NAME OF IMPLICATION 1
+## Usability
 
-Replace this text with a clear explanation of what the implication means.
-
-### Relevance to the System
-
-Replace this text with an explanation of why the implication is relevant to this particular project.
-
-### Impact / Considerations
-
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
-
-
-
-## NAME OF IMPLICATION 2
-
-Replace this text with a clear explanation of what the implication means.
+Usability is an implication
 
 ### Relevance to the System
 
@@ -42,6 +37,23 @@ Replace this text with an explanation of why the implication is relevant to this
 ### Impact / Considerations
 
 Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+
+
+ 
+## Privacy
+
+Privacy as an implication is the collection of a users information and not taking any info that isnt necessary like gender, sometimes age and most of the time
+where they live. Also not storing that data in an unsecure place or state.
+For example, dont store passwords in plaintext or important information that the user doesnt want to be stored.
+
+### Relevance to the System
+
+This implication is relevent for this specific project because privacy is a right and should never be abbused and some house holds could have specific chores
+that they wouldn't want to be leaked.
+
+### Impact / Considerations
+
+My project will respect the privacy implication by considering how to only ask for the important infomation that my app WILL need and to store it safely.
 
 
 
