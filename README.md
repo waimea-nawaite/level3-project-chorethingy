@@ -13,6 +13,9 @@ The app has the following key features:
 
 ## Supporting Documents
 
+All documentation is hosted on [Github 
+Pages]{https://waimea-nawaite.github.io/level3-project-chorethingy/}
+
 Task Instructions:
 - [Instruction documents](docs/instructions/)
 
