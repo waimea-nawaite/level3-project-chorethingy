@@ -57,39 +57,40 @@ End-User implication is where an interface should be built around people who wou
 
 ### Relevance to the System
 
-This implication is important to my project because my project 
+This implication is important to my project so that the end-user can use the interface to do what they want and it targets the right groups e.g. a family or kids
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+I will need to consider that familys would probably be using my project like adding vocabulary that younger ages would understand and adding 
+ways to complete their needs quicker.
 
 
 
-## NAME OF IMPLICATION 4
+## Aesthetics
 
-Replace this text with a clear explanation of what the implication means.
+Aesthetics is the visual design for my project. Aesthetics are important because people judge a lot on how they like the look of things
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+This implication is relevent to my project because kids would be using it and kids are very picky and if they dont like what they see it wont end well
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+I will keep an constant with my colors so it doesnt confuse the users and looks intriguing
 
 
 
-## NAME OF IMPLICATION 5
+## Functionality
 
-Replace this text with a clear explanation of what the implication means.
+Functionality is important for a system because even if an interface looks good doesnt mean it will function well
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+I will need my interface to be functional but quick and straight to the point. People hate having to wait long periods of time
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this implication.
+I will make sure every button will work properly and to not leave out areas that dont work which could confuse users.
 
 
 
