@@ -96,41 +96,43 @@ I will make sure every button will work properly and to not leave out areas that
 
 # User Experience (UX) Principles
 
-## NAME OF UX PRINCIPLE 1
+## Know Your User
 
-Replace this text with a clear explanation of what the principle means.
-
-### Relevance to the System
-
-Replace this text with an explanation of why the principle is relevant to this particular project.
-
-### Impact / Considerations
-
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
-
-
-## NAME OF UX PRINCIPLE 2
-
-Replace this text with a clear explanation of what the principle means.
+This principle means that I should understand that other people will use my interface and should be built around what other people would like 
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+This principle is relevent to my project because many different people could be using my interface so knowning about the users wants and needs is important
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will need to consider testing many different areas and new things and asking my end-user to give feedback and what they would like to see or change
 
 
-## NAME OF UX PRINCIPLE 3
+## Keep Tasks Quick
 
-Replace this text with a clear explanation of what the principle means.
+This principle means to obvously keep tasks quick so the user doesnt get fed up or bored waiting
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the principle is relevant to this particular project.
+This principle is relevent to my project because it may require many different buttons and selections and if it makes tasks
+slow the user would just give up
 
 ### Impact / Considerations
 
-Replace this text with an explanation of what you will need to consider moving forward and how the project will be impacted by this principle.
+I will need to consider making my project with the least amount of steps needed to complete a task the user requires e.g. Only a couple of steps instead of many
+
+
+## Clear, Helpful Language
+
+This principle means that words, messages, buttons with text etc. Should be clear easy to read and helpful
+
+### Relevance to the System
+
+This principle is relevent to my project because different ages mostly parents and kids so letting kids be able to read and be interested
+would help the project and parents
+
+### Impact / Considerations
+
+I will need to consider keeping a good language that shows what they are about to do but also make it clear to not confuse the users
 
